@@ -10,7 +10,7 @@
 
 ## Who Am I?
 
-I'm **[Your Name]**, a passionate Python programmer and a student diving deep into Artificial Intelligence and Data Science. I thrive on learning new technologies and sharing knowledge within the community.
+I'm **Tony Stark**, a passionate Python programmer and a student diving deep into Artificial Intelligence and Data Science. I thrive on learning new technologies and sharing knowledge within the community.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Important-blue?style=flat&logo=ai" alt="AI">
