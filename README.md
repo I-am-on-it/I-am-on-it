@@ -18,13 +18,13 @@ I'm **Tony Stark**, a passionate Python programmer and a student diving deep int
 </p>
 
 <ul>
-  <li>🔭 Currently working on <strong>[Your Project]</strong></li>
-  <li>🌱 Learning <strong>[Specific Technologies/Topics]</strong></li>
-  <li>👯 Looking to collaborate on <strong>[Open Source Projects/AI & DS Projects]</strong></li>
-  <li>🤔 Need help with <strong>[Specific Topic]</strong></li>
-  <li>💬 Ask me about <strong>Python, AI, Data Science, and Open Source</strong></li>
-  <li>📫 Reach me at <strong>[your-email@example.com]</strong></li>
-  <li>⚡ Fun fact: <strong>[Your Fun Fact]</strong></li>
+<!--   <li>🔭 Currently working on <strong>[Project]</strong></li> -->
+  <li>🌱 Learning <strong>Generative AI</strong></li>
+  <li>👯 Looking to collaborate on <strong>Open Source Projects/AI & DS Projects</strong></li>
+<!--   <li>🤔 Need help with <strong>[Specific Topic]</strong></li> -->
+<!--   <li>💬 Ask me about <strong>Python, AI, Data Science, and Open Source</strong></li> -->
+<!--   <li>📫 Reach me at <strong>[your-email@example.com]</strong></li> -->
+  <li>⚡ Fun fact: <strong>People think AI has came... But actually it isn't... </strong></li>
 </ul>
 
 ## 🛠️ My Toolkit
@@ -48,61 +48,19 @@ I'm **Tony Stark**, a passionate Python programmer and a student diving deep int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=he-is-here&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/your-instagram-handle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://facebook.com/your-facebook-handle">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-</p>
-
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<ul>
-  <li><a href="https://yourblog.com/post-link">Post Title</a></li>
-  <li><a href="https://yourblog.com/post-link">Post Title</a></li>
-  <li><a href="https://yourblog.com/post-link">Post Title</a></li>
-</ul>
-<!-- BLOG-POST-LIST:END -->
 
 ## 📂 Noteworthy Projects
 
 <ul>
+<!--   <li><a href="https://github.com/your-username/project-repo"><strong>Project Name</strong></a>: Brief description of the project.</li>
   <li><a href="https://github.com/your-username/project-repo"><strong>Project Name</strong></a>: Brief description of the project.</li>
-  <li><a href="https://github.com/your-username/project-repo"><strong>Project Name</strong></a>: Brief description of the project.</li>
-  <li><a href="https://github.com/your-username/project-repo"><strong>Project Name</strong></a>: Brief description of the project.</li>
+  <li><a href="https://github.com/your-username/project-repo"><strong>Project Name</strong></a>: Brief description of the project.</li> -->
 </ul>
 
 ## 🎮 Fun and Games
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes Card">
-</p>
-
-## 🌟 Testimonials
-
-<blockquote>
-  "Your testimonial text goes here. This could be feedback from peers, professors, or project collaborators."
-</blockquote>
-
-<blockquote>
-  "Another testimonial text goes here."
-</blockquote>
-
-<hr>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/he-is-here">He-is-here</a>
 </p>
 
 <p align="center">
